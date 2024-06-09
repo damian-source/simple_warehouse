@@ -1,8 +1,9 @@
-Dokumentacja Aplikacji Simple Warehouse
-Przegląd
-Aplikacja Simple Warehouse to narzędzie desktopowe służące do zarządzania inwentarzem w magazynie, wykorzystujące Arkusze Google jako zaplecze. Aplikacja umożliwia dodawanie nowych produktów, wysyłkę produktów, relokację produktów w magazynie oraz zarządzanie zwrotami. Ponadto loguje wszystkie operacje na inwentarzu dla celów śledzenia.
+# Dokumentacja Aplikacji Simple Warehouse
 
-Funkcje
+## Przegląd
+Aplikacja Simple Warehouse to narzędzie desktopowe służące do zarządzania magazynem produktów, yykorzystujące Arkusze Google jako bazę danych. Aplikacja umożliwia dodawanie nowych produktów, wysyłkę produktów, relokację produktów w magazynie oraz zarządzanie zwrotami. Ponadto loguje wszystkie operacje w arkuszu dla celów śledzenia.
+
+## Funkcje
 Wprowadzenie Produktu: Dodawanie nowych produktów do magazynu.
 Wysyłka: Rejestrowanie i zarządzanie wysyłkami produktów.
 Relokacja: Zmiana lokalizacji produktów w magazynie.
