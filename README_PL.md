@@ -75,9 +75,7 @@ Funkcja ```return_item(search_id)``` zwraca produkt do magazynu na podstawie jeg
 - Odczytywanie definicji
 Funkcja ```read_definitions(sheet_name, column)``` odczytuje kolumnę z arkusza definicji i zwraca wartości jako listę.
 
-- Obsługa skanera kodów kreskowych
-
-- Nasłuchiwanie skanera
+Obsługa skanera kodów kreskowych - nasłuchiwanie skanera
 Obsługa skanera kodów kreskowych jest realizowana w osobnym wątku, aby działała niezależnie od interfejsu GUI.
 Funkcja ```start_listener()``` uruchamia nasłuchiwacz, który rozpoznaje wprowadzenia z klawiatury i interpretuje je jako skany kodów kreskowych.
 
